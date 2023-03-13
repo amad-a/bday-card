@@ -1,0 +1,75 @@
+html, body {
+    background-image: url("bg.jpeg");
+    max-width: 100%;
+    overflow-x: hidden;
+    z-index: 0;
+}
+#bubbles { 
+    position: absolute;
+    width: 100px;
+    height: 500px;
+    margin-right: 300px;
+    bottom: 100px;
+    z-index: 1;
+}
+
+
+#wordart {
+    position: relative;
+    z-index: 2;
+}
+
+#pisces {
+    position: relative;
+    top: -30px;
+
+}
+
+#onetextbox {
+    top: -200px
+}
+
+.textbox {
+background-color: rgb(0, 106, 123) ;
+padding: 10px;
+margin-bottom: 40px;
+margin: 10px;
+position: relative;
+border-style: dotted dashed solid double;
+border-color: yellow;
+font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: yellow;
+}
+
+
+#dolphin {
+    position: relative; 
+    left: 150px;
+    top: -50px;
+  
+
+}
+
+#fish {
+    margin-left: 50px;
+    margin-top: -30px;
+
+}
+
+#angelfish {
+    position: relative;
+    margin-left: -180px;
+    top: 140px;
+
+}
+
+
+
+
+#bunny {
+    position: relative;
+    margin-top: -200px;
+    right: 80px;
+    
+}
