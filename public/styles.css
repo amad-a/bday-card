@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    width: 375;
+    width: 375px;
 }
 #bubbles { 
     position: absolute;
