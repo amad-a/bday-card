@@ -4,6 +4,10 @@ html, body {
     overflow-x: hidden;
     z-index: 0;
 }
+
+body {
+    width: 375;
+}
 #bubbles { 
     position: absolute;
     width: 100px;
